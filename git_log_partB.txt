@@ -1,0 +1,102 @@
+commit 154457a7ea48e4e00adc91682fa6a6c9d6c1328e
+Author: Saranya Sekar <87346.sekar@students.itu.edu>
+Date:   Thu Apr 28 20:41:51 2016 -0700
+
+    Readding file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..cb4c7d3
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1,2 @@
++EXPECTED GRADUATION YEAR:2016 JOB TITLE:PHP DEVELOPER
++
+
+commit 1d1b6a9117de300f58e431a0dbdc43a24b0d1594
+Author: Saranya Sekar <87346.sekar@students.itu.edu>
+Date:   Thu Apr 28 20:24:41 2016 -0700
+
+    Deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index ba66e63..c9d0bb1 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,5 +1,5 @@
+ NAME: SARANYA SEKAR , MAJOR: SOFTWARE ENGINEERING
+ FAVORITE RESTAURANT: PF CHANG'S
+ FAVORITE MOVIE: ROJA
+-
++FAVORITE COLOR: AQUA BLUE
+ 
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index cb4c7d3..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1,2 +0,0 @@
+-EXPECTED GRADUATION YEAR:2016 JOB TITLE:PHP DEVELOPER
+-
+
+commit 49adb8edd1ef5323c5c1b1c8c03101572b2f708f
+Author: Saranya Sekar <87346.sekar@students.itu.edu>
+Date:   Thu Apr 28 19:56:21 2016 -0700
+
+    file2.txt added
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..cb4c7d3
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1,2 @@
++EXPECTED GRADUATION YEAR:2016 JOB TITLE:PHP DEVELOPER
++
+
+commit 7cace57d7215f53c51963bb4e16d5fe761685983
+Author: Saranya Sekar <87346.sekar@students.itu.edu>
+Date:   Thu Apr 28 18:26:58 2016 -0700
+
+    Added favorite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index 12969f1..ba66e63 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,5 @@
+ NAME: SARANYA SEKAR , MAJOR: SOFTWARE ENGINEERING
++FAVORITE RESTAURANT: PF CHANG'S
++FAVORITE MOVIE: ROJA
++
++
+
+commit 5eeafbbba7f7f02e2ff5232be2c84110b905ad59
+Author: Saranya Sekar <87346.sekar@students.itu.edu>
+Date:   Thu Apr 28 18:23:10 2016 -0700
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index 19ddf4e..12969f1 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-NAME: SARANYA SEKAR , STUDENT ID# 87346
+\ No newline at end of file
++NAME: SARANYA SEKAR , MAJOR: SOFTWARE ENGINEERING
+
+commit 8ab2af11905ea446b83fa9ca4d444d3bcc17a7ba
+Author: Saranya Sekar <87346.sekar@students.itu.edu>
+Date:   Thu Apr 28 16:43:41 2016 -0700
+
+    committing a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..19ddf4e
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++NAME: SARANYA SEKAR , STUDENT ID# 87346
+\ No newline at end of file
